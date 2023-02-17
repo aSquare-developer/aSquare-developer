@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aSquare-developer
 - 👀 I’m interested in Swift programming and Laravel Application
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning PHP
 
 <!---
 aSquare-developer/aSquare-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
